@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mounika Jakkireddy
+# Hi 👋 I'm MOUNIKA JAKKIREDDY
 
 🎓 **B.Tech Computer Science Engineering Student** at SRM Institute of Science and Technology
 💡 Passionate about **AI, Machine Learning, Computer Vision, and Full-Stack Development**
